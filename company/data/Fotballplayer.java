@@ -1,4 +1,4 @@
-package com.company;
+package com.company.data;
 
 public class Fotballplayer {
     protected int age;

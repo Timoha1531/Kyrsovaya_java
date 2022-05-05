@@ -1,4 +1,6 @@
-package com.company;
+package com.company.data;
+
+import com.company.data.Fotballplayer;
 
 public class Midfielder extends Fotballplayer {
     private int passes;

@@ -1,4 +1,4 @@
-package com.company;
+package com.company.data;
 
 public class Defender extends Fotballplayer {
     private int ball_selections;
